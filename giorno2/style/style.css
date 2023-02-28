@@ -1,0 +1,55 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: center;
+    text-align: center;
+   }
+
+#logo{
+    width: 200px;
+}
+#slogan{
+    background-color: rgba(247, 247, 37, 0.377);
+    border-top: solid 2px rgb(255 227 106);
+    color: #148b54;
+    margin-bottom: 70px;
+    padding: 10px;
+    font-size: small;
+}
+#credit{
+    text-align: center;
+    color: gray;
+}
+#link-id{
+    margin-bottom: 0%;
+    color: red;
+}
+
+.external-link {
+    border-left: solid 2px rgb(255, 208, 0);
+    padding-left: 15px;
+    
+}
+
+
+main{
+    width: 720px;
+     margin-left: auto;
+     margin-right: auto;
+     text-align: left;
+}
+h1{
+    text-align: center;
+}
+h2{
+    border-bottom: solid 1px #1bcaff86;
+    margin: 40px 0;
+    padding-bottom: 30px;
+}
+.main-image{
+    box-shadow: 8px 8px 5px rgba(211, 211, 211, 0.521);
+    border-radius: 6px;
+}
+a:link{
+    color: #03a547;
+}
+
